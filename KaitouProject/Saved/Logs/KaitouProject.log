@@ -1,0 +1,1089 @@
+﻿Log file open, 02/22/22 00:50:34
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: KaitouProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.973898
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files (x86)/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Engine.ini]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Engine.ini]
+[2022.02.21-15.50.38:280][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Engine.ini]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Engine.ini]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.21-15.50.38:280][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Engine.ini]
+[2022.02.21-15.50.38:280][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Engine.ini]
+[2022.02.21-15.50.38:371][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.21-15.50.38:371][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.21-15.50.38:371][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.21-15.50.38:371][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.21-15.50.38:371][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.21-15.50.38:371][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.21-15.50.38:371][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.21-15.50.38:371][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.21-15.50.38:371][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.21-15.50.38:371][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.21-15.50.38:371][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.21-15.50.38:371][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.21-15.50.38:371][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.21-15.50.38:371][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.21-15.50.38:371][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.21-15.50.38:371][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.21-15.50.38:371][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.21-15.50.38:371][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.21-15.50.38:371][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.21-15.50.38:371][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.21-15.50.38:371][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.21-15.50.38:372][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.21-15.50.38:373][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.21-15.50.38:373][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.21-15.50.38:373][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.21-15.50.38:374][  0]LogHAL: Display: Platform has ~ 16 GB [17012244480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.21-15.50.38:374][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.21-15.50.38:374][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.21-15.50.38:374][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.21-15.50.38:374][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Scalability.ini]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.21-15.50.38:375][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.21-15.50.38:378][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.21-15.50.38:378][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.21-15.50.38:378][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.21-15.50.38:378][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Engine.ini]
+[2022.02.21-15.50.38:378][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Config/Windows/Editor.ini]
+[2022.02.21-15.50.38:378][  0]LogInit: Computer: DESKTOP-E20SAIK
+[2022.02.21-15.50.38:378][  0]LogInit: User: taked
+[2022.02.21-15.50.38:378][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.02.21-15.50.38:378][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.21-15.50.38:378][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.02.21-15.50.38:379][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.21-15.50.38:379][  0]LogMemory: Process Physical Memory: 138.67 MB used, 138.68 MB peak
+[2022.02.21-15.50.38:379][  0]LogMemory: Process Virtual Memory: 120.86 MB used, 120.86 MB peak
+[2022.02.21-15.50.38:379][  0]LogMemory: Physical Memory: 13358.39 MB used,  2865.75 MB free, 16224.14 MB total
+[2022.02.21-15.50.38:379][  0]LogMemory: Virtual Memory: 134211656.00 MB used,  6074.89 MB free, 134217728.00 MB total
+[2022.02.21-15.50.38:480][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.21-15.50.38:966][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.21-15.50.38:973][  0]LogInit: Using OS detected language (ja-JP).
+[2022.02.21-15.50.38:973][  0]LogInit: Using OS detected locale (ja-JP).
+[2022.02.21-15.50.38:990][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2022.02.21-15.50.39:178][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.21-15.50.39:374][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.21-15.50.39:463][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.21-15.50.39:463][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.21-15.50.41:913][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.21-15.50.41:913][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.21-15.50.41:913][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.21-15.50.41:913][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.21-15.50.43:150][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2022.02.21-15.50.43:150][  0]LogD3D11RHI:       3962/0/8112 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.02.21-15.50.43:376][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.02.21-15.50.43:376][  0]LogD3D11RHI:       128/0/8112 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.02.21-15.50.43:419][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.21-15.50.43:419][  0]LogD3D11RHI:       0/0/8112 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.21-15.50.43:420][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.02.21-15.50.43:438][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.21-15.50.43:438][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.21-15.50.43:438][  0]LogWindows: EnumDisplayDevices:
+[2022.02.21-15.50.43:438][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.02.21-15.50.43:439][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.02.21-15.50.43:440][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.02.21-15.50.43:441][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2022.02.21-15.50.43:441][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.02.21-15.50.43:441][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2022.02.21-15.50.43:441][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
+[2022.02.21-15.50.43:441][  0]LogD3D11RHI:      Driver Date: 7-12-2021
+[2022.02.21-15.50.43:441][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2022.02.21-15.50.44:577][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.21-15.50.44:578][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.21-15.50.44:578][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.21-15.50.44:696][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.21-15.50.44:746][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.02.21-15.50.47:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.21-15.50.47:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.21-15.50.47:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.21-15.50.47:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.21-15.50.47:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.21-15.50.47:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.21-15.50.47:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.21-15.50.47:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.21-15.50.47:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.21-15.50.47:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.21-15.50.47:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.21-15.50.47:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.21-15.50.47:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.21-15.50.47:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.21-15.50.47:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.21-15.50.47:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.21-15.50.47:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.21-15.50.47:694][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.21-15.50.47:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.21-15.50.47:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.21-15.50.47:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.21-15.50.47:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.21-15.50.47:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.02.21-15.50.47:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.02.21-15.50.47:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.02.21-15.50.47:999][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.02.21-15.50.48:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.21-15.50.48:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.21-15.50.48:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.21-15.50.48:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.21-15.50.48:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.21-15.50.48:139][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.21-15.50.48:139][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.21-15.50.48:174][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.21-15.50.48:429][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.21-15.50.48:429][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Intermediate/Shaders/WorkingDirectory/69104/).
+[2022.02.21-15.50.48:430][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/taked/AppData/Local/Temp/UnrealShaderWorkingDir/A889742E416630086DDDD8972401632B/'.
+[2022.02.21-15.50.48:430][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.21-15.50.48:430][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.21-15.50.50:449][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.21-15.50.50:517][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/taked/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.02.21-15.50.50:517][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/taked/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.02.21-15.50.50:517][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.21-15.50.50:518][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.21-15.50.50:518][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.21-15.50.50:518][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.21-15.50.50:536][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.21-15.50.50:536][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.21-15.50.50:536][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.21-15.50.51:357][  0]LogDerivedDataCache: Speed tests for C:/Users/taked/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.82 seconds
+[2022.02.21-15.50.51:357][  0]LogDerivedDataCache: Display: Performance to C:/Users/taked/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=4.32MBs, RandomWriteSpeed=1.54MBs. Assigned SpeedClass 'Local'
+[2022.02.21-15.50.51:358][  0]LogDerivedDataCache: Using Local data cache path C:/Users/taked/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.21-15.50.51:358][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.21-15.50.51:358][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.21-15.50.51:425][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.21-15.50.51:431][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.21-15.50.51:572][  0]LogAssetRegistry: FAssetRegistry took 0.0051 seconds to start up
+[2022.02.21-15.50.51:920][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.21-15.50.51:920][  0]LogInit: Active device profile: [0000017DDBFCA100][0000017DB7936B80 49] Windows
+[2022.02.21-15.50.51:920][  0]LogInit: Profiles: [0000017DDBFCA100][0000017DB7936B80 49] Windows, [0000017DDBF60D00][0000017DD2362D00 49] WindowsNoEditor, [0000017DDBFC8A00][0000017DD2366E80 49] WindowsServer, [0000017DDBF62200][0000017DD236B000 49] WindowsClient, [0000017DDBFC8900][0000017DDA73B180 49] IOS, [0000017DDBFC8B00][0000017DDA73F300 49] iPadAir, [0000017DDBF42700][0000017DDA743480 49] iPadAir2, [0000017DDBEFDA00][0000017DDA7476C0 49] IPadPro, [0000017DDBEFDB00][0000017DD235F700 49] iPadAir3, [0000017DDBF40100][0000017DDA74B840 49] iPadAir4, [0000017DDBEFC300][0000017DDA74F980 49] iPadMini2, [0000017DDBF43B00][0000017DDA757B00 49] iPadMini3, [0000017DDBEFF400][0000017DDA75BC80 49] iPadMini4, [0000017DDBF40600][0000017DDA75E140 49] iPadMini5, [0000017DDBF62F00][0000017DDA766400 49] iPhone6, [0000017DDBF62E00][0000017DDA762440 49] iPodTouch6, [0000017DDBEFE800][0000017DDA76E700 49] iPhone7, [0000017DDBEFC600][0000017DDA76A740 49] iPodTouch7, [0000017DDBF60300][0000017DDA7728C0 49] iPhone5S, [0000017DDBEFCF00][0000017DDA776A40 49] iPhone6Plus, [0000017DDBF62900][0000017DDA77ABC0 49] iPhone6S, [0000017DDBEFF900][0000017DDA77ED40 49] iPhone6SPlus, [0000017DDBF63A00][0000017DDA782EC0 49] iPhone7Plus, [0000017DDBEFD700][0000017DDA787040 49] iPhoneSE, [0000017DDBF61400][0000017DDA78F1C0 49] iPhone8, [0000017DDBEFD000][0000017DDA793340 49] iPhone8Plus, [0000017DDBF63100][0000017DDA7974C0 49] iPhoneX, [0000017DDBEFC700][0000017DDA79B640 49] iPhoneXS, [0000017DDBF60E00][0000017DDA753780 49] iPhoneXSMax, [0000017DDBEFF200][0000017DDA79F8C0 49] iPhoneXR, [0000017DDBF61700][0000017DDA7A3A00 49] iPhone11, [0000017DDBEFE200][0000017DDA7ABB80 49] iPhone11Pro, [0000017DDBF63C00][0000017DDA7AFD00 49] iPhone11ProMax, [0000017DDBEFC900][0000017DDA7B21C0 49] iPhoneSE2, [0000017DDBF63F00][0000017DDA7B6340 49] iPhone12Mini, [0000017DDBEFD500][0000017DDA7BA4C0 49] iPhone12, [0000017DDBF62500][0000017DDBAEA640 49] iPhone12Pro, [0000017DDBEFE100][0000017DDBAEE7C0 49] iPhone12ProMax, [0000017DDBF63300][0000017DDBAF2940 49] iPadPro105, [0000017DDBEFC200][0000017DDBAF6AC0 49] iPadPro129, [0000017DDBF61900][0000017DDBAFAC40 49] iPadPro97, [0000017DDBEFDD00][0000017DDBAFEDC0 49] iPadPro2_129, [0000017DDBF63700][0000017DDBB02F40 49] iPad5, [0000017DDBEFEB00][0000017DDBB070C0 49] iPad6, [0000017DDBF60200][0000017DDBB0B240 49] iPad7, [0000017DDBEFCC00][0000017DDBB0F3C0 49] iPad8, [0000017DDBF63B00][0000017DDBB13540 49] iPadPro11, [0000017DDBEFE500][0000017DDBB176C0 49] iPadPro2_11, [0000017DDBF63800][0000017DDA7A7800 49] iPadPro3_129, [0000017DDBEFDE00][0000017DDBB45940 49] iPadPro4_129, [0000017DDBF61C00][0000017DDBB49A80 49] AppleTV, [0000017DDBEFDC00][0000017DDBB51C00 49] AppleTV4K, [0000017DDBF61D00][0000017DDBB540C0 49] TVOS, [0000017DDBEFD600][0000017DDBB58240 49] Mac, [0000017DDBF63200][0000017DDBB5C3C0 49] MacClient, [0000017DDBEFDF00][0000017DDBB60540 49] MacNoEditor, [0000017DDBF60500][0000017DDBB646C0 49] MacServer, [0000017DDBEFD200][0000017DDBB68840 49] Linux, [0000017DDBF60B00][0000017DDBB6C9C0 49] LinuxAArch64, [0000017DDBEFE700][0000017DDBB70B40 49] LinuxNoEditor, [0000017DDBF60600][0000017DDBB74CC0 49] LinuxAArch64NoEditor, [0000017DDBEFE400][0000017DDBB78E40 49] LinuxClient, [0000017DDBF61500][0000017DDBB7CFC0 49] LinuxAArch64Client, [0000017DDBEFE300][0000017DDBB81140 49] LinuxServer, [0000017DDBF63E00][0000017DDBB852C0 49] LinuxAArch64Server, [0000017DDBEFC800][0000017DDBB89440 49] Android, [0000017DDBF63D00][0000017DDBB8D5C0 49] Android_Low, [0000017DDBEFCE00][0000017DDBB91740 49] Android_Mid, [0000017DDBF60C00][0000017DDBB4D880 49] Android_High, [0000017DDBEFEA00][0000017DDBB959C0 49] Android_Default, [0000017DDBF43500][0000017DDBB99B00 49] Android_Adreno4xx, [0000017DDBFC9C00][0000017DDBB9DC40 49] Android_Adreno5xx_Low, [0000017DDBF40400][0000017DDBBA4100 49] Android_Adreno5xx, [0000017DDBFC8700][0000017DDBBA8280 49] Android_Adreno6xx, [0000017DDBF41300][0000017DDBBAC400 49] Android_Adreno6xx_Vulkan, [0000017DDBFC8100][0000017DDBBB0580 49] Android_Mali_T6xx, [0000017DDBF42000][0000017DDBBB4700 49] Android_Mali_T7xx, [0000017DDBFC9B00][0000017DDBBB8880 49] Android_Mali_T8xx, [0000017DDBF41100][0000017DDBBBCA00 49] Android_Mali_G71, [0000017DDBFC8400][0000017DDBBC0B80 49] Android_Mali_G72, [0000017DDBF41A00][0000017DDBBC4D00 49] Android_Mali_G72_Vulkan, [0000017DDBFC9600][0000017DDBBC8E80 49] Android_Mali_G76, [0000017DDBF41500][0000017DDBBCD000 49] Android_Mali_G76_Vulkan, [0000017DDBFC9400][0000017DDCCD9180 49] Android_Mali_G77, [0000017DDBF40900][0000017DDCCDD300 49] Android_Mali_G77_Vulkan, [0000017DDBFC9700][0000017DDCCE1480 49] Android_Vulkan_SM5, [0000017DDBF42A00][0000017DDCCE5600 49] Android_PowerVR_G6xxx, [0000017DDBFC8300][0000017DDCCE9780 49] Android_PowerVR_GT7xxx, [0000017DDBF41600][0000017DDBBA18C0 49] Android_PowerVR_GE8xxx, [0000017DDBFC9800][0000017DDCCEDA00 49] Android_PowerVR_GM9xxx, [0000017DDBF42400][0000017DDCCF1B40 49] Android_PowerVR_GM9xxx_Vulkan, [0000017DDBFC9100][0000017DDCCF5C80 49] Android_TegraK1, [0000017DDBF43200][0000017DDCCFC140 49] Android_Unknown_Vulkan, [0000017DDBFC8F00][0000017DDCD002C0 49] Lumin, [0000017DDBF43C00][0000017DDCD04440 49] Lumin_Desktop, [0000017DDBFC9300][0000017DDCD085C0 49] HoloLens, 
+[2022.02.21-15.50.52:185][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.21-15.50.52:185][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.21-15.50.52:185][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.21-15.50.52:185][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.21-15.50.52:185][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.21-15.50.52:219][  0]LogNetVersion: KaitouProject 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2693914778)
+[2022.02.21-15.50.54:475][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.21-15.50.54:924][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.449036 seconds
+[2022.02.21-15.50.54:932][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.02.21-15.50.54:932][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.02.21-15.50.54:932][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.21-15.50.56:208][  0]LogPython: Using Python 3.7.7
+[2022.02.21-15.50.59:024][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.21-15.50.59:265][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.21-15.50.59:723][  0]SourceControl: ソースコントロールは無効です
+[2022.02.21-15.50.59:723][  0]SourceControl: ソースコントロールは無効です
+[2022.02.21-15.50.59:743][  0]SourceControl: ソースコントロールは無効です
+[2022.02.21-15.50.59:763][  0]SourceControl: ソースコントロールは無効です
+[2022.02.21-15.50.59:818][  0]SourceControl: ソースコントロールは無効です
+[2022.02.21-15.50.59:850][  0]LogUProjectInfo: Found projects:
+[2022.02.21-15.51.00:980][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.21-15.51.01:112][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.21-15.51.01:112][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.21-15.51.01:417][  0]LogCollectionManager: Loaded 0 collections in 0.001162 seconds
+[2022.02.21-15.51.01:536][  0]LogFileCache: Scanning file cache for directory 'D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Collections/' took 0.00s
+[2022.02.21-15.51.01:536][  0]LogFileCache: Scanning file cache for directory 'D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/Developers/taked/Collections/' took 0.00s
+[2022.02.21-15.51.01:536][  0]LogFileCache: Scanning file cache for directory 'D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/Collections/' took 0.00s
+[2022.02.21-15.51.01:536][  0]LogOcInput: OculusInput pre-init called
+[2022.02.21-15.51.01:583][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.02.21-15.51.01:584][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.02.21-15.51.05:231][  0]LogEngine: Initializing Engine...
+[2022.02.21-15.51.05:233][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.21-15.51.05:233][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.21-15.51.05:236][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.02.21-15.51.05:581][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.21-15.51.05:612][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.21-15.51.05:612][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.21-15.51.05:634][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.21-15.51.05:634][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.21-15.51.05:634][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.21-15.51.05:634][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.21-15.51.05:634][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.21-15.51.05:634][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.21-15.51.05:634][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.21-15.51.05:634][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.21-15.51.05:634][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.21-15.51.05:634][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.21-15.51.05:635][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.21-15.51.05:635][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.21-15.51.05:999][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.21-15.51.05:999][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.21-15.51.06:374][  0]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.02.21-15.51.06:375][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.21-15.51.06:412][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.21-15.51.06:412][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.21-15.51.06:414][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.21-15.51.06:414][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.21-15.51.06:414][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.21-15.51.06:416][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.21-15.51.06:416][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.21-15.51.06:416][  0]LogInit: FAudioDevice initialized.
+[2022.02.21-15.51.06:416][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.21-15.51.06:416][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.21-15.51.06:718][  0]LogDerivedDataCache: Saved boot cache 0.30s 77MB C:/Users/taked/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.02.21-15.51.06:722][  0]LogInit: Texture streaming: Enabled
+[2022.02.21-15.51.06:777][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.02.21-15.51.06:798][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.21-15.51.06:798][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.21-15.51.06:807][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.21-15.51.06:970][  0]LogInit: Transaction tracking system initialized
+[2022.02.21-15.51.07:118][  0]BlueprintLog: New page: エディタの読み込み
+[2022.02.21-15.51.07:594][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2022.02.21-15.51.07:732][  0]TimingProfiler: Initialize
+[2022.02.21-15.51.07:733][  0]TimingProfiler: OnSessionChanged
+[2022.02.21-15.51.07:733][  0]LoadingProfiler: Initialize
+[2022.02.21-15.51.07:733][  0]LoadingProfiler: OnSessionChanged
+[2022.02.21-15.51.07:733][  0]NetworkingProfiler: Initialize
+[2022.02.21-15.51.07:733][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.21-15.51.07:733][  0]MemoryProfiler: Initialize
+[2022.02.21-15.51.07:733][  0]MemoryProfiler: OnSessionChanged
+[2022.02.21-15.51.09:562][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.21-15.51.09:562][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.21-15.51.10:223][  0]LogFileCache: Scanning file cache for directory 'D:/Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/' took 0.00s
+[2022.02.21-15.51.12:581][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.21-15.51.12:605][  0]SourceControl: ソースコントロールは無効です
+[2022.02.21-15.51.12:605][  0]LogUnrealEdMisc: Loading editor; pre map load, took 40.361
+[2022.02.21-15.51.12:615][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Program Files (x86)/Epic Games/UE_4.26/FeaturePacks/StarterContent.upack)
+[2022.02.21-15.51.12:620][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.21-15.51.12:620][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.51.12:620][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.21-15.51.12:830][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.02.21-15.51.12:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.02.21-15.51.12:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.02.21-15.51.12:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.02.21-15.51.12:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.02.21-15.51.12:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.02.21-15.51.12:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.02.21-15.51.13:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.02.21-15.51.13:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.02.21-15.51.13:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.02.21-15.51.13:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.02.21-15.51.13:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.02.21-15.51.13:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.02.21-15.51.13:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.02.21-15.51.13:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.02.21-15.51.13:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.02.21-15.51.13:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.02.21-15.51.13:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.02.21-15.51.13:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Fire01.uasset"
+[2022.02.21-15.51.13:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.02.21-15.51.13:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.02.21-15.51.13:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.02.21-15.51.13:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Light01.uasset"
+[2022.02.21-15.51.13:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.02.21-15.51.13:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Light02.uasset"
+[2022.02.21-15.51.13:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.02.21-15.51.13:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.02.21-15.51.13:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.02.21-15.51.13:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.02.21-15.51.13:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.02.21-15.51.13:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.02.21-15.51.13:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.02.21-15.51.13:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.02.21-15.51.13:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.02.21-15.51.13:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Steam01.uasset"
+[2022.02.21-15.51.13:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.02.21-15.51.13:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.02.21-15.51.13:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.02.21-15.51.13:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.02.21-15.51.13:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.02.21-15.51.13:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.02.21-15.51.13:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.02.21-15.51.14:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.02.21-15.51.14:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.02.21-15.51.14:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.02.21-15.51.14:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.02.21-15.51.14:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.02.21-15.51.14:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.02.21-15.51.14:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.02.21-15.51.14:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.02.21-15.51.14:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.02.21-15.51.14:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.02.21-15.51.15:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.02.21-15.51.15:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.02.21-15.51.15:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.02.21-15.51.15:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.02.21-15.51.15:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.02.21-15.51.15:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Maps/StarterMap.umap"
+[2022.02.21-15.51.16:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.02.21-15.51.16:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.02.21-15.51.16:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.02.21-15.51.16:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.02.21-15.51.16:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.02.21-15.51.16:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.02.21-15.51.16:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.02.21-15.51.16:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.02.21-15.51.16:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.02.21-15.51.16:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.02.21-15.51.16:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.02.21-15.51.16:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.02.21-15.51.16:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.02.21-15.51.16:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.02.21-15.51.16:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.02.21-15.51.16:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.02.21-15.51.16:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.02.21-15.51.16:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.02.21-15.51.17:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.02.21-15.51.17:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.02.21-15.51.17:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.02.21-15.51.17:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.02.21-15.51.17:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.02.21-15.51.17:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.02.21-15.51.17:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.02.21-15.51.17:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.02.21-15.51.17:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.02.21-15.51.17:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.02.21-15.51.17:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.02.21-15.51.17:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.02.21-15.51.17:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.02.21-15.51.17:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.02.21-15.51.17:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.02.21-15.51.17:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.02.21-15.51.17:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.02.21-15.51.17:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.02.21-15.51.17:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.02.21-15.51.17:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.02.21-15.51.17:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.02.21-15.51.17:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.02.21-15.51.17:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.02.21-15.51.17:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.02.21-15.51.17:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.02.21-15.51.17:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.02.21-15.51.17:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.02.21-15.51.17:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.02.21-15.51.17:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.02.21-15.51.17:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.02.21-15.51.17:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.02.21-15.51.17:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.02.21-15.51.17:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.02.21-15.51.17:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.02.21-15.51.17:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.02.21-15.51.17:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.02.21-15.51.17:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.02.21-15.51.17:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.02.21-15.51.18:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.02.21-15.51.18:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.02.21-15.51.18:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.02.21-15.51.18:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.02.21-15.51.18:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.02.21-15.51.18:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.02.21-15.51.18:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.02.21-15.51.18:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.02.21-15.51.18:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.02.21-15.51.18:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/SM_Door.uasset"
+[2022.02.21-15.51.18:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.02.21-15.51.18:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.02.21-15.51.18:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.02.21-15.51.18:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.02.21-15.51.18:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.02.21-15.51.18:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.02.21-15.51.18:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.02.21-15.51.18:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.02.21-15.51.18:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.02.21-15.51.18:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.02.21-15.51.18:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.02.21-15.51.18:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.02.21-15.51.19:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.02.21-15.51.19:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.02.21-15.51.19:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.02.21-15.51.19:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.02.21-15.51.19:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.02.21-15.51.19:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.02.21-15.51.19:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.02.21-15.51.19:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.02.21-15.51.19:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.02.21-15.51.19:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.02.21-15.51.19:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.02.21-15.51.19:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.02.21-15.51.19:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.02.21-15.51.19:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.02.21-15.51.19:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.02.21-15.51.19:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.02.21-15.51.20:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.02.21-15.51.20:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.02.21-15.51.20:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.02.21-15.51.20:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.02.21-15.51.20:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.02.21-15.51.20:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.02.21-15.51.20:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.02.21-15.51.20:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.02.21-15.51.20:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.02.21-15.51.20:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.02.21-15.51.20:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.02.21-15.51.20:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.02.21-15.51.20:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.02.21-15.51.20:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.02.21-15.51.20:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.02.21-15.51.20:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.02.21-15.51.20:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.02.21-15.51.20:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.02.21-15.51.21:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.02.21-15.51.21:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.02.21-15.51.21:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.02.21-15.51.21:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.02.21-15.51.21:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.02.21-15.51.21:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.02.21-15.51.22:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.02.21-15.51.22:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.02.21-15.51.22:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.02.21-15.51.22:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.02.21-15.51.22:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.02.21-15.51.23:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.02.21-15.51.23:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.02.21-15.51.23:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.02.21-15.51.23:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.02.21-15.51.23:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.02.21-15.51.23:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.02.21-15.51.23:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.02.21-15.51.23:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.02.21-15.51.23:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.02.21-15.51.23:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.02.21-15.51.24:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.02.21-15.51.24:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.02.21-15.51.24:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.02.21-15.51.24:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.02.21-15.51.24:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.02.21-15.51.25:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.02.21-15.51.25:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.02.21-15.51.26:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.02.21-15.51.26:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.02.21-15.51.27:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.02.21-15.51.27:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.02.21-15.51.28:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.02.21-15.51.28:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.02.21-15.51.29:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.02.21-15.51.29:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.02.21-15.51.29:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.02.21-15.51.29:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.02.21-15.51.29:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.02.21-15.51.29:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.02.21-15.51.29:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.02.21-15.51.29:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.02.21-15.51.29:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.02.21-15.51.29:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.02.21-15.51.29:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.02.21-15.51.29:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.02.21-15.51.29:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.02.21-15.51.29:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.02.21-15.51.30:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.02.21-15.51.31:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.02.21-15.51.31:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.02.21-15.51.32:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.02.21-15.51.32:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.02.21-15.51.32:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.02.21-15.51.32:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.02.21-15.51.32:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.02.21-15.51.33:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.02.21-15.51.33:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.02.21-15.51.34:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.02.21-15.51.35:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.02.21-15.51.36:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.02.21-15.51.36:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.02.21-15.51.36:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.02.21-15.51.36:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.02.21-15.51.37:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.02.21-15.51.37:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.02.21-15.51.37:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.02.21-15.51.38:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.02.21-15.51.39:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.02.21-15.51.39:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.02.21-15.51.39:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.02.21-15.51.40:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.02.21-15.51.40:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.02.21-15.51.41:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.02.21-15.51.41:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.02.21-15.51.42:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.02.21-15.51.42:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.02.21-15.51.42:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.02.21-15.51.42:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.02.21-15.51.42:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.02.21-15.51.42:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.02.21-15.51.43:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.02.21-15.51.43:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.02.21-15.51.44:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.02.21-15.51.44:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.02.21-15.51.45:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.02.21-15.51.45:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.02.21-15.51.45:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.02.21-15.51.45:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.02.21-15.51.45:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.02.21-15.51.46:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.02.21-15.51.46:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.02.21-15.51.47:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.02.21-15.51.47:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.02.21-15.51.48:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.02.21-15.51.48:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.02.21-15.51.49:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.02.21-15.51.50:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.02.21-15.51.51:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.02.21-15.51.52:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.02.21-15.51.52:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.02.21-15.52.06:829][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2022.02.21-15.52.10:714][  0]LogSavePackage: Moving '../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Saved/Floor_400x40002D453D649733DEEF202FFB4429409CF.tmp' to '../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.02.21-15.52.11:058][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2022.02.21-15.52.11:186][  0]Cmd: MAP LOAD FILE="../../../../../../Github/GitKraken/20220210/UnrealKaitou/KaitouProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.21-15.52.11:361][  0]LightingResults: New page: ライティングのビルド
+[2022.02.21-15.52.11:770][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.21-15.52.11:806][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.21-15.52.11:870][  0]MapCheck: New page: マップをチェック
+[2022.02.21-15.52.11:870][  0]LightingResults: New page: <何も選択されていません>
+[2022.02.21-15.52.12:681][  0]LogUObjectHash: Compacting FUObjectHashTables data took   8.88ms
+[2022.02.21-15.52.15:000][  0]LogTexture: Display: テクスチャをビルドしています:DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8、128X128)
+[2022.02.21-15.52.16:543][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.02.21-15.52.16:544][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.02.21-15.52.17:397][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.21-15.52.17:476][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.02.21-15.52.17:502][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.21-15.52.17:503][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.28ミリ秒かかりました。
+[2022.02.21-15.52.17:503][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 6.406
+[2022.02.21-15.52.19:386][  0]LogUnrealEdMisc: Total Editor Startup Time, took 107.142
+[2022.02.21-15.52.19:694][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft IME).
+[2022.02.21-15.52.20:605][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.21-15.52.20:612][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.21-15.52.20:618][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.21-15.52.20:624][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.21-15.52.20:986][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0114 seconds. Added 3628 classes and 872 folders.
+[2022.02.21-15.52.21:268][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.21-15.52.21:403][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.21-15.52.21:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.21-15.52.21:415][  0]LogPakFile: OnPakFileMounted2Time == 0.011827
+[2022.02.21-15.52.21:480][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.21-15.52.21:480][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:480][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.21-15.52.21:480][  0]LogPakFile: OnPakFileMounted2Time == 0.011831
+[2022.02.21-15.52.21:497][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.02.21-15.52.21:497][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:497][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.02.21-15.52.21:497][  0]LogPakFile: OnPakFileMounted2Time == 0.011836
+[2022.02.21-15.52.21:506][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.21-15.52.21:506][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:506][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.21-15.52.21:506][  0]LogPakFile: OnPakFileMounted2Time == 0.011840
+[2022.02.21-15.52.21:523][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.21-15.52.21:524][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:524][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.21-15.52.21:524][  0]LogPakFile: OnPakFileMounted2Time == 0.011844
+[2022.02.21-15.52.21:530][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.21-15.52.21:530][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:530][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.21-15.52.21:530][  0]LogPakFile: OnPakFileMounted2Time == 0.011847
+[2022.02.21-15.52.21:537][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.21-15.52.21:537][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:537][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.21-15.52.21:537][  0]LogPakFile: OnPakFileMounted2Time == 0.011851
+[2022.02.21-15.52.21:543][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.21-15.52.21:543][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:543][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.21-15.52.21:543][  0]LogPakFile: OnPakFileMounted2Time == 0.011854
+[2022.02.21-15.52.21:551][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.21-15.52.21:551][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:551][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.21-15.52.21:551][  0]LogPakFile: OnPakFileMounted2Time == 0.011858
+[2022.02.21-15.52.21:594][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.21-15.52.21:594][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:594][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.21-15.52.21:594][  0]LogPakFile: OnPakFileMounted2Time == 0.011862
+[2022.02.21-15.52.21:601][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.21-15.52.21:601][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:601][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.21-15.52.21:601][  0]LogPakFile: OnPakFileMounted2Time == 0.011866
+[2022.02.21-15.52.21:607][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.21-15.52.21:607][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:607][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.21-15.52.21:607][  0]LogPakFile: OnPakFileMounted2Time == 0.011871
+[2022.02.21-15.52.21:613][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.21-15.52.21:613][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:613][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.21-15.52.21:613][  0]LogPakFile: OnPakFileMounted2Time == 0.011873
+[2022.02.21-15.52.21:620][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.21-15.52.21:620][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:620][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.21-15.52.21:620][  0]LogPakFile: OnPakFileMounted2Time == 0.011878
+[2022.02.21-15.52.21:643][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.21-15.52.21:643][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:643][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.21-15.52.21:643][  0]LogPakFile: OnPakFileMounted2Time == 0.011882
+[2022.02.21-15.52.21:657][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.21-15.52.21:657][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:657][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.21-15.52.21:657][  0]LogPakFile: OnPakFileMounted2Time == 0.011886
+[2022.02.21-15.52.21:675][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.21-15.52.21:675][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:675][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.21-15.52.21:675][  0]LogPakFile: OnPakFileMounted2Time == 0.011890
+[2022.02.21-15.52.21:683][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.21-15.52.21:683][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:683][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.21-15.52.21:683][  0]LogPakFile: OnPakFileMounted2Time == 0.011903
+[2022.02.21-15.52.21:689][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.21-15.52.21:689][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:689][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.21-15.52.21:689][  0]LogPakFile: OnPakFileMounted2Time == 0.011908
+[2022.02.21-15.52.21:707][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.21-15.52.21:707][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:707][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.21-15.52.21:707][  0]LogPakFile: OnPakFileMounted2Time == 0.011913
+[2022.02.21-15.52.21:713][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.21-15.52.21:714][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:714][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.21-15.52.21:714][  0]LogPakFile: OnPakFileMounted2Time == 0.011916
+[2022.02.21-15.52.21:721][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.21-15.52.21:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:722][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.21-15.52.21:722][  0]LogPakFile: OnPakFileMounted2Time == 0.011920
+[2022.02.21-15.52.21:727][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.02.21-15.52.21:727][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:727][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.02.21-15.52.21:727][  0]LogPakFile: OnPakFileMounted2Time == 0.011922
+[2022.02.21-15.52.21:736][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.21-15.52.21:736][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:736][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.21-15.52.21:736][  0]LogPakFile: OnPakFileMounted2Time == 0.011927
+[2022.02.21-15.52.21:742][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.21-15.52.21:742][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:742][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.21-15.52.21:742][  0]LogPakFile: OnPakFileMounted2Time == 0.011931
+[2022.02.21-15.52.21:747][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.21-15.52.21:747][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.21-15.52.21:747][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.21-15.52.21:747][  0]LogPakFile: OnPakFileMounted2Time == 0.011932
+[2022.02.21-15.52.22:557][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.21-15.52.22:641][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.02.21-15.52.24:212][  0]LogSlate: Took 0.006950 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.21-15.52.24:273][  0]LogSlate: Took 0.023930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2022.02.21-15.52.28:604][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.02.21-15.52.29:531][  0]LogSlate: Took 0.026428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2022.02.21-15.52.29:548][  0]LogSlate: Took 0.016866 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.21-15.52.29:748][  0]LogSlate: Took 0.009706 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.21-15.52.30:486][  0]LogRenderer: Reallocating scene render targets to support 1096x572 Format 10 NumSamples 1 (Frame:1).
+[2022.02.21-15.52.32:422][  0]LogSlate: Took 0.113668 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.21-15.52.33:172][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.21-15.52.33:172][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.02.21-15.52.33:172][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.02.21-15.52.33:172][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.02.21-15.52.33:172][  0]LogLoad: (Engine Initialization) Total time: 120.93 seconds
+[2022.02.21-15.52.33:172][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.21-15.52.33:181][  0]LogInit: First time updating LLM stats...
+[2022.02.21-15.52.33:704][  0]AssetCheck: New page: アセット保存:Floor_400x400
+[2022.02.21-15.52.33:704][  0]LogContentValidation: Display: StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 を検証しています
+[2022.02.21-15.52.34:159][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.21-15.52.34:745][  1]LogAssetRegistry: Asset discovery search completed in 103.1737 seconds
+[2022.02.21-15.52.34:761][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.007734 seconds (updated 0 objects)
+[2022.02.21-15.52.55:250][273]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.02.21-15.52.55:959][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.21-15.54.09:018][633]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.02.21-15.54.20:552][667]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.02.21-15.56.32:021][ 58]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
